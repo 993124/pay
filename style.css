@@ -111,7 +111,7 @@ strike {
 
 .photo-bg {
     /* background-image: url(assets/background.jpg); */
-    background-image: url(https://cdn.jsdelivr.net/gh/993124/pay@master/20220304/csol02.408wqho9yl60.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/993124/pay@master/xiehu.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -170,7 +170,7 @@ footer p {
         padding: 20px;
     }
 }
-body{background-image:url(02bj.jpg); 
+body{background-image:url(https://cdn.jsdelivr.net/gh/993124/pay@master/02bj.jpg); 
     background-repeat:no-repeat;        /* 重复 */
 	background-position:100%;
 	background-size:100% 100%;        /* 自适应 */
